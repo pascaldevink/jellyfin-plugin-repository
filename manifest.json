@@ -5,8 +5,8 @@
     "overview": "Automatically organise and rename files",
     "description": "This plugin automatically organises and renames files as recommended by Jellyfin.",
     "category": "File Administration",
-    "owner": "geo-martino",
-    "imageUrl": "https://raw.githubusercontent.com/geo-martino/jellyfin-plugin-autoorganiser/master/images/logo.png",
+    "owner": "pascaldevink",
+    "imageUrl": "https://raw.githubusercontent.com/pascaldevink/jellyfin-plugin-autoorganiser/master/images/logo.png",
     "versions": [
       {
         "version": "12.4.0.0",
