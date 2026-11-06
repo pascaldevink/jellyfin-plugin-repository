@@ -42,7 +42,7 @@ runs:
     - name: 🛒 Checkout actions
       uses: actions/checkout@v3
       with:
-        repository: geo-martino/jellyfin-plugin-repository
+        repository: pascaldevink/jellyfin-plugin-repository
         path: repository/
         token: ${{ inputs.github-token }}
 
